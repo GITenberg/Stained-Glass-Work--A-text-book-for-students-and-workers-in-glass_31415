@@ -1,0 +1,28 @@
+_repo: Stained-Glass-Work--A-text-book-for-students-and-workers-in-glass_31415
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whall, Christopher
+    alias: Whall, C. W.
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '35213'
+    url: http://www.gutenberg.org/2009/agents/35213
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Glass painting and staining'
+title: 'Stained Glass Work: A text-book for students and workers in glass'
+url: http://www.gutenberg.org/ebooks/31415
